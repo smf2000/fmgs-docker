@@ -1,2 +1,2 @@
 # fmgs-docker
-docker pull probezy/cpolar
+probezy/cpolar
